@@ -2,9 +2,8 @@
 
 **Project 2: Deep Learning Applications | Individual Lab**  
 **Course:** Introduction to Applied AI | BS 8th Semester | Department of Electronics  
-**Dataset:** [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) by Paul Mooney / Kermany et al.  
-**Backbone:** ResNet-18 (ImageNet Pre-trained)  
-**Task:** Binary Classification — Normal vs. Pneumonia
+**Dataset:** [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) by Paul Mooney / Kermany et al.    
+**Name:** Muhammad Huzaifa
 
 ---
 
